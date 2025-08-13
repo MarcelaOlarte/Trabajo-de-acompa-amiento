@@ -3,18 +3,18 @@ Este análisis explora un dataset público de Colombia que registra la prevalenc
 
 Enfermedades analizadas:
 
-Artritis
+- Artritis
 
-Diabetes
+- Diabetes
 
-Hipertensión
+- Hipertensión
 
-EPOC
+- EPOC
 
-Asma
+- Asma
 
-Insuficiencia cardíaca
+- Insuficiencia cardíaca
 
-Cáncer
+- Cáncer
 
-Otras condiciones especiales: huérfanas, cirugías cardíacas, trasplantados
+- Otras condiciones especiales: huérfanas, cirugías cardíacas, trasplantados
