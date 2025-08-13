@@ -47,6 +47,12 @@ La carga de enfermedades aumenta con la edad.
 
   <img width="1006" height="689" alt="image" src="https://github.com/user-attachments/assets/ef8d2723-a7cd-4cf4-a42c-caadeaa9bd33" />
 
+**📝 Conclusión**
+
+El análisis de la base de datos evidencia que las enfermedades crónicas cardiovasculares y metabólicas —como hipertensión y diabetes— son las más prevalentes, especialmente en hombres y en personas mayores de 60 años. Se observa un incremento progresivo de la carga de enfermedades con la edad, y una proporción significativa de la población presenta multimorbilidad, lo que implica riesgos acumulativos para la salud.
+
+Estos hallazgos resaltan la importancia de implementar estrategias preventivas y de manejo integral, orientadas tanto a la detección temprana como al control de múltiples enfermedades, especialmente en los grupos más vulnerables.
+
 ## 🛠️ Tecnologías y Herramientas
 
 * **Lenguajes:** `Python`
@@ -59,7 +65,7 @@ La carga de enfermedades aumenta con la edad.
 
   ## 📊 Visualizaciones
 
-[<img width="696" height="470" alt="image" src="https://github.com/user-attachments/assets/8113f5af-dcf9-4f27-824d-bd60c1c34424" /> ]
+<img width="696" height="470" alt="image" src="https://github.com/user-attachments/assets/8113f5af-dcf9-4f27-824d-bd60c1c34424" /> 
 
 <img width="846" height="635" alt="image" src="https://github.com/user-attachments/assets/8ce1395c-80c4-4b84-9e36-404e92be0683" />
 
