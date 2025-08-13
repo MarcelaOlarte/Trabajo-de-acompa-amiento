@@ -71,6 +71,13 @@ La carga de enfermedades aumenta con la edad.
 8,artritis,1
 9,huerfanas_hemofilias_y_otras,0
 
-![Riesgo cardiovascular por sexo] <img width="696" height="470" alt="image" src="https://github.com/user-attachments/assets/8113f5af-dcf9-4f27-824d-bd60c1c34424" />
+![Riesgo cardiovascular por sexo <img width="696" height="470" alt="image" src="https://github.com/user-attachments/assets/8113f5af-dcf9-4f27-824d-bd60c1c34424" /> ]
 
 
+## ⚙️ Cómo reproducir el análisis
+
+Este análisis fue desarrollado en **Google Colab**. Para reproducirlo, haz clic en el siguiente enlace y ejecuta las celdas del notebook en tu navegador:
+
+[![Abrir en Colab]((https://colab.research.google.com/drive/1rOGkogxqQXzAl6OkodRjC1StNHAY7XL6?usp=sharing))]
+
+El notebook incluye la carga de datos, la manipulación, los cálculos y la generación de todas las visualizaciones mencionadas. Solo necesitas ejecutar las celdas en orden.
