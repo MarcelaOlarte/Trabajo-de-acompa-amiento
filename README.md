@@ -1,7 +1,7 @@
 #  Análisis de prevalencia de enfermedades en Colombia
 Este repositorio contiene un análisis exploratorio de datos (EDA) de un dataset público sobre la prevalencia de enfermedades crónicas y su distribución en la población, segmentado por sexo, edad y ciclo de vida.
 
-🚀 El objetivo de este proyecto es explorar y visualizar los patrones de enfermedades crónicas en una población específica, utilizando un dataset público de Colombia. A través de este análisis, se busca responder a preguntas clave como:
+El objetivo de este proyecto es explorar y visualizar los patrones de enfermedades crónicas en una población específica, utilizando un dataset público de Colombia. A través de este análisis, se busca responder a preguntas clave como:
 
 * ¿Cuál es la distribución de enfermedades como la diabetes, hipertensión o asma según el sexo?
 * ¿Cómo varía la cantidad promedio de enfermedades a lo largo de los diferentes ciclos de vida?
@@ -18,7 +18,7 @@ Este repositorio contiene un análisis exploratorio de datos (EDA) de un dataset
 
 ## Hallazgos clave
 
- **Distribución de enfermedades por sexo:**
+ **1. Distribución de enfermedades por sexo:**
 Las enfermedades más frecuentes son hipertensión, diabetes y artritis.
 
 Diferencias por género:
@@ -27,19 +27,19 @@ Diferencias por género:
 
 **♀️ Mujeres:** Mayor prevalencia de artritis e insuficiencia cardíaca.
 
-**🚨 Riesgo cardiovascular**
+**2. Riesgo cardiovascular**
 - El 37% de la población presenta un riesgo alto.
 - Este riesgo es más alto en hombres que en mujeres.
 - La mayoría de los casos de alto riesgo se concentran en personas mayores de 60 años.
 
-**📈 Carga de enfermedades por ciclo de vida**
+**3. Carga de enfermedades por ciclo de vida**
 La carga de enfermedades aumenta con la edad.
 
 - **Niños y jóvenes:** Carga casi nula.
 - **Adultos:** Incremento gradual, especialmente en hipertensión y diabetes.
 - **Personas mayores (60+):** Carga más alta, con múltiples enfermedades coexistiendo.
 
-**🏥 Prevalencia total y multimorbilidad** 
+**4.Prevalencia total y multimorbilidad** 
 - Las enfermedades crónicas cardiovasculares y metabólicas son las más frecuentes.
 - Una proporción significativa de la población presenta más de una enfermedad, lo que indica un riesgo acumulado.
 - Enfermedades raras, cirugías cardíacas y trasplantes tienen una baja incidencia, pero son importantes para identificar subpoblaciones vulnerables.
@@ -53,7 +53,7 @@ El análisis de la base de datos evidencia que las enfermedades crónicas cardio
 
 Estos hallazgos resaltan la importancia de implementar estrategias preventivas y de manejo integral, orientadas tanto a la detección temprana como al control de múltiples enfermedades, especialmente en los grupos más vulnerables.
 
-## Tecnologías y Herramientas
+## Tecnologías y herramientas
 
 * **Lenguajes:** `Python`
 * **Librerías:**
@@ -69,7 +69,7 @@ Estos hallazgos resaltan la importancia de implementar estrategias preventivas y
 
 <img width="846" height="635" alt="image" src="https://github.com/user-attachments/assets/8ce1395c-80c4-4b84-9e36-404e92be0683" />
 
-## ⚙ Cómo reproducir el análisis
+## Cómo reproducir el análisis
 
 Este análisis fue desarrollado en **Google Colab**. Para reproducirlo, haz clic en el siguiente enlace y ejecuta las celdas del notebook en tu navegador:
 
