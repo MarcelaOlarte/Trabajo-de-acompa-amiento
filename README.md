@@ -18,28 +18,29 @@ Este repositorio contiene un análisis exploratorio de datos (EDA) de un dataset
 
 ## 📈 Hallazgos clave
 
- **📊 Distribución de enfermedades por sexo**
+ **📊 Distribución de enfermedades por sexo:**
 Las enfermedades más frecuentes son hipertensión, diabetes y artritis.
 
 Diferencias por género:
 
 **♂️ Hombres:** Mayor prevalencia de hipertensión y diabetes.
+
 **♀️ Mujeres:** Mayor prevalencia de artritis e insuficiencia cardíaca.
 
 **🚨 Riesgo cardiovascular**
-El 37% de la población presenta un riesgo alto.
-Este riesgo es más alto en hombres que en mujeres.
-La mayoría de los casos de alto riesgo se concentran en personas mayores de 60 años.
+- El 37% de la población presenta un riesgo alto.
+- Este riesgo es más alto en hombres que en mujeres.
+- La mayoría de los casos de alto riesgo se concentran en personas mayores de 60 años.
 
 **📈 Carga de enfermedades por ciclo de vida**
 La carga de enfermedades aumenta con la edad.
 
-**Niños y jóvenes:** Carga casi nula.
-**Adultos:** Incremento gradual, especialmente en hipertensión y diabetes.
-**Personas mayores (60+):** Carga más alta, con múltiples enfermedades coexistiendo.
+- **Niños y jóvenes:** Carga casi nula.
+- **Adultos:** Incremento gradual, especialmente en hipertensión y diabetes.
+- **Personas mayores (60+):** Carga más alta, con múltiples enfermedades coexistiendo.
 
 **🏥 Prevalencia total y multimorbilidad** 
-Las enfermedades crónicas cardiovasculares y metabólicas son las más frecuentes.
-Una proporción significativa de la población presenta más de una enfermedad, lo que indica un riesgo acumulado.
-Enfermedades raras, cirugías cardíacas y trasplantes tienen una baja incidencia, pero son importantes para identificar subpoblaciones vulnerables.
+- Las enfermedades crónicas cardiovasculares y metabólicas son las más frecuentes.
+- Una proporción significativa de la población presenta más de una enfermedad, lo que indica un riesgo acumulado.
+- Enfermedades raras, cirugías cardíacas y trasplantes tienen una baja incidencia, pero son importantes para identificar subpoblaciones vulnerables.
   
