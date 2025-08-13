@@ -76,3 +76,9 @@ Este análisis fue desarrollado en **Google Colab**. Para reproducirlo, haz clic
 [![https://colab.research.google.com/drive/1rOGkogxqQXzAl6OkodRjC1StNHAY7XL6?usp=sharing]
 
 El notebook incluye la carga de datos, la manipulación, los cálculos y la generación de todas las visualizaciones mencionadas. Solo necesitas ejecutar las celdas en orden.
+
+**Realizado por:**
+- Ivanna Stefany Lerma Hernandez
+- Juan Esteban Galeano Marin
+- Diana Marcela Olarte Vargas
+
