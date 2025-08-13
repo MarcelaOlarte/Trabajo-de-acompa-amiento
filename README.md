@@ -47,3 +47,30 @@ La carga de enfermedades aumenta con la edad.
 
   <img width="1006" height="689" alt="image" src="https://github.com/user-attachments/assets/ef8d2723-a7cd-4cf4-a42c-caadeaa9bd33" />
 
+## 🛠️ Tecnologías y Herramientas
+
+* **Lenguajes:** `Python`
+* **Librerías:**
+    * `Pandas` para la manipulación y análisis de datos.
+    * `NumPy` para operaciones numéricas.
+    * `Matplotlib` para la creación de gráficos.
+    * `Seaborn` para visualizaciones estadísticas más atractivas.
+* **Entorno:** `Google Colab`
+
+  ## 📊 Visualizaciones
+
+  index,Enfermedad,Numero_personas
+0,hipertensi_n,807
+1,diabetes,436
+2,epoc,138
+3,c_ncer,86
+4,insuficiencia_cardiaca,41
+5,asma,6
+6,cirugia_cardiaca,3
+7,trasplantados,2
+8,artritis,1
+9,huerfanas_hemofilias_y_otras,0
+
+![Riesgo cardiovascular por sexo] <img width="696" height="470" alt="image" src="https://github.com/user-attachments/assets/8113f5af-dcf9-4f27-824d-bd60c1c34424" />
+
+
