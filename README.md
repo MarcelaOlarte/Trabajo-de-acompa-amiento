@@ -43,4 +43,7 @@ La carga de enfermedades aumenta con la edad.
 - Las enfermedades crónicas cardiovasculares y metabólicas son las más frecuentes.
 - Una proporción significativa de la población presenta más de una enfermedad, lo que indica un riesgo acumulado.
 - Enfermedades raras, cirugías cardíacas y trasplantes tienen una baja incidencia, pero son importantes para identificar subpoblaciones vulnerables.
-  
+
+
+  <img width="1006" height="689" alt="image" src="https://github.com/user-attachments/assets/ef8d2723-a7cd-4cf4-a42c-caadeaa9bd33" />
+
