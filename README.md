@@ -59,25 +59,14 @@ La carga de enfermedades aumenta con la edad.
 
   ## 📊 Visualizaciones
 
-  index,Enfermedad,Numero_personas
-0,hipertensi_n,807
-1,diabetes,436
-2,epoc,138
-3,c_ncer,86
-4,insuficiencia_cardiaca,41
-5,asma,6
-6,cirugia_cardiaca,3
-7,trasplantados,2
-8,artritis,1
-9,huerfanas_hemofilias_y_otras,0
+[<img width="696" height="470" alt="image" src="https://github.com/user-attachments/assets/8113f5af-dcf9-4f27-824d-bd60c1c34424" /> ]
 
-![Riesgo cardiovascular por sexo <img width="696" height="470" alt="image" src="https://github.com/user-attachments/assets/8113f5af-dcf9-4f27-824d-bd60c1c34424" /> ]
-
+<img width="846" height="635" alt="image" src="https://github.com/user-attachments/assets/8ce1395c-80c4-4b84-9e36-404e92be0683" />
 
 ## ⚙️ Cómo reproducir el análisis
 
 Este análisis fue desarrollado en **Google Colab**. Para reproducirlo, haz clic en el siguiente enlace y ejecuta las celdas del notebook en tu navegador:
 
-[![Abrir en Colab]((https://colab.research.google.com/drive/1rOGkogxqQXzAl6OkodRjC1StNHAY7XL6?usp=sharing))]
+[![https://colab.research.google.com/drive/1rOGkogxqQXzAl6OkodRjC1StNHAY7XL6?usp=sharing]
 
 El notebook incluye la carga de datos, la manipulación, los cálculos y la generación de todas las visualizaciones mencionadas. Solo necesitas ejecutar las celdas en orden.
